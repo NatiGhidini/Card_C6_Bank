@@ -1,0 +1,69 @@
+body{
+    background-color: #fecdd0;
+    font-family:Arial, Arial, Helvetica, sans-serif;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+}
+.container{
+    padding: 1em;
+    border-radius: 10px;
+    width: 15em;
+    height: 25em;
+    box-shadow: 5px 8px 8px #000;
+    background-image: url("https://user-images.githubusercontent.com/107075512/194615890-7629d46d-10ca-41c7-b49f-1d63f8dac9f1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+img[alt=Logo-master-card]{
+    width: 40%;
+    margin-right: 3%;
+}
+
+img[alt=Logo-c6-bank]{
+    width: 53%;
+    height: 16%;
+    filter: opacity(0.4) drop-shadow(0 0 0 white); 
+    margin-top: 100%;
+    
+}
+
+img[alt=Chip]{
+    width: 90%;
+    transform: rotate(90deg);
+    margin-left: 80%;
+    margin-top: 10%;  
+}
+
+
+img[alt=Logo-proximacao]{
+    width: 50%;
+    margin-top: 25px;
+    margin-left: 30%;
+    transform: rotate(90deg);
+    filter: opacity(0.4) drop-shadow(0 0 0 white); 
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header{
+     height: 70%;
+     
+}
+
+.box-img{
+    display: flex;
+    align-items: flex-start;
+}
+
+.footer{
+    height: 100%;  
+}
