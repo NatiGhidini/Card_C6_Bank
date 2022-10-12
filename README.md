@@ -22,7 +22,7 @@ Cartão 3D banco C6 Bank!
 
  ```bash
  # Entrando no repositório
- $ cd Projeto-Git.Github
+ $ cd Card_C6_Bank
  ```
 
  ```bash
