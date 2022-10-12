@@ -17,7 +17,7 @@ Cartão 3D banco C6 Bank!
 
  ```bash
  # Clonando o projeto 
- $ git clone https://github.com/NatiGhidini/Layout-next.github.io
+ $ git clone https://github.com/NatiGhidini/Card_C6_Bank.github.io
  ```
 
  ```bash
